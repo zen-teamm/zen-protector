@@ -1,7 +1,10 @@
-![1000057512](https://github.com/user-attachments/assets/c2e31024-9496-470a-87ff-1d5c69c38e8a)
+![1000057653](https://github.com/user-attachments/assets/d2afe9c8-fdbf-4e27-878b-3b03815258ae)
 
 # Zen Protector
 ***A new way to protect your Lua Scripts.***
 
 # Information
-**The main repository is found here.**
+**Zen Protector is still in early alpha, it will contain bugs or other unwanted things. Please use with caution.**
+
+# Usage
+**You can find an example of Zen Protector in action right here.**
