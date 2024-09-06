@@ -2,3 +2,6 @@
 
 # Zen Protector
 ***A new way to protect your Lua Scripts.***
+
+# Information
+**The main repository is found here.**
