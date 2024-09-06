@@ -7,4 +7,4 @@
 **Zen Protector is still in early alpha, it will contain bugs or other unwanted things. Please use with caution.**
 
 # Usage
-**You can find an example of Zen Protector in action right here.**
+**You can find an example of Zen Protector in action right [here](https://github.com/zen-teamm/zen-protector/blob/main/example.lua).**
